@@ -1,4 +1,4 @@
-##DOCKER SESSION
+## DOCKER SESSION
 
 1what is docker??? why docker???
     Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
